@@ -3,7 +3,7 @@ An intelligent system for early detection of plant diseases using image recognit
 
 
 # User Interface
-![Alt text](app/UI.jpg)
+![Alt text](app/Web.jpg)
 
 # Inspiration
 The idea for this project was inspired by the global challenge of crop diseases and how they affect food production and sustainability. We noticed that many farmers and gardeners struggle with early detection of diseases in their plants, often relying on guesswork or costly professional help. With the rise of AI and image recognition technology, we saw an opportunity to build a tool that could simplify this process, making plant disease detection more accessible to everyone.
